@@ -5,7 +5,10 @@ Generate rich, AI-powered descriptions for any historical artifact!
 Upload an image, specify your prompt and word count, and get a custom, engaging artifact description powered by Google Gemini.
 
 ---
+## Live Demo
+- **Website URL:** [Click here](https://gemini-historical-artifact-description-app.streamlit.app/)
 
+---
 ## ✨ Features
 
 - **Modern, Responsive UI:** Clean two-column layout with a bright, attractive palette.
@@ -70,12 +73,6 @@ streamlit run app.py
 │   └── index.html
 └── README.md
 ```
-
----
-
-## 🛡️ License
-
-This project is licensed under the MIT License.
 
 ---
 
